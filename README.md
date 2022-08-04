@@ -1,0 +1,3 @@
+### ALGOLIA EXAMPLE
+
+---
